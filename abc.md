@@ -1,6 +1,8 @@
 ---
 title: This is my title
 layout: post
+category: Java
+tags: [web, jekyll]
 ---
 
 hello
